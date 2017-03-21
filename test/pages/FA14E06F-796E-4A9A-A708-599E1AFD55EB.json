@@ -245,8 +245,8 @@
             "_class": "rect",
             "constrainProportions": false,
             "height": 43,
-            "width": 45,
-            "x": 165,
+            "width": 75,
+            "x": 150,
             "y": 1
           },
           "isFlippedHorizontal": false,
@@ -254,7 +254,7 @@
           "isLocked": false,
           "isVisible": true,
           "layerListExpandedType": 0,
-          "name": "test",
+          "name": "poyosi",
           "nameIsFixed": false,
           "resizingType": 0,
           "rotation": 0,
@@ -289,12 +289,12 @@
           "attributedString": {
             "_class": "MSAttributedString",
             "archivedAttributedString": {
-              "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT1AQ0dLU1RVVldbX2FVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANUdGVzdNMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4zNzY0NzA1ODgyIDAuMzg0MzEzNzI1NSAwLjM5MjE1Njg2MjcAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1DY3OAo5Ojs8Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzgAAQAoAMgA7SEgo+P6CADdIsLUFCV05TQXJyYXmiQTHSLC1ERV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0RGMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkhJSl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpMT1KiTU6AEYASolBRgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQD4AAAAAAABfEBhCcmFuZG9uR3JvdGVzcXVlLVJlZ3VsYXLSLC1YWV8QE05TTXV0YWJsZURpY3Rpb25hcnmjWFoxXE5TRGljdGlvbmFyedIsLVxdXxAQTlNGb250RGVzY3JpcHRvcqJeMV8QEE5TRm9udERlc2NyaXB0b3LSLC1aYKJaMdIsLWJjXxASTlNBdHRyaWJ1dGVkU3RyaW5nomQxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WdoVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAIgAjwCXAKIApgCoAKoArACwALIAtAC2ALgAwADTAPUA/gEEAREBJgFQAVIBVAFWAVsBYAFiAWQBaQF0AX0BigGNAZoBowGoAbABswG8AccB0wHgAeIB5AHmAegB7QHuAfAB9QH9AgACBQIfAiMCNgI7AlgCWgJcAmMCZgJoAmoCbQJvAnECcwKJAp8CqALDAsgC3gLiAu8C9AMHAwoDHQMiAyUDKgM/A0IDVwNpA2wDcQAAAAAAAAIBAAAAAAAAAGkAAAAAAAAAAAAAAAAAAANz"
+              "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT1AQ0dLU1RVVldbX2FVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANWcG95b3Np0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuAD4AXV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjM3NjQ3MDU4ODIgMC4zODQzMTM3MjU1IDAuMzkyMTU2ODYyNwAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHUNjc4Cjk6OzxaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3OAABACgAyADtISCj4/oIAN0iwtQUJXTlNBcnJheaJBMdIsLURFXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjREYxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKSElKXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCkxPUqJNToARgBKiUFGAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPgAAAAAAAF8QGEJyYW5kb25Hcm90ZXNxdWUtUmVndWxhctIsLVhZXxATTlNNdXRhYmxlRGljdGlvbmFyeaNYWjFcTlNEaWN0aW9uYXJ50iwtXF1fEBBOU0ZvbnREZXNjcmlwdG9yol4xXxAQTlNGb250RGVzY3JpcHRvctIsLVpgolox0iwtYmNfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZDFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRZ2hUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAigCRAJkApACoAKoArACuALIAtAC2ALgAugDCANUA9wEAAQYBEwEoAVIBVAFWAVgBXQFiAWQBZgFrAXYBfwGMAY8BnAGlAaoBsgG1Ab4ByQHVAeIB5AHmAegB6gHvAfAB8gH3Af8CAgIHAiECJQI4Aj0CWgJcAl4CZQJoAmoCbAJvAnECcwJ1AosCoQKqAsUCygLgAuQC8QL2AwkDDAMfAyQDJwMsA0EDRANZA2sDbgNzAAAAAAAAAgEAAAAAAAAAaQAAAAAAAAAAAAAAAAAAA3U="
             }
           },
           "automaticallyDrawOnUnderlyingPath": false,
           "dontSynchroniseWithSymbol": false,
-          "glyphBounds": "{{0, 0}, {45, 33}}",
+          "glyphBounds": "{{0, 0}, {73, 42}}",
           "heightIsClipped": false,
           "lineSpacingBehaviour": 2,
           "textBehaviour": 0
@@ -485,9 +485,9 @@
                 "color": {
                   "_class": "color",
                   "alpha": 1,
-                  "blue": 0.3019607843137252,
-                  "green": 0.1686274509803922,
-                  "red": 0.9176470588235294
+                  "blue": 0.886238694190979,
+                  "green": 0.5645518898963928,
+                  "red": 0.288655698299408
                 },
                 "fillType": 0,
                 "noiseIndex": 0,
@@ -537,7 +537,7 @@
                 "points": [
                   {
                     "_class": "curvePoint",
-                    "cornerRadius": 10,
+                    "cornerRadius": 0,
                     "curveFrom": "{0, 0}",
                     "curveMode": 1,
                     "curveTo": "{0, 0}",
@@ -547,7 +547,7 @@
                   },
                   {
                     "_class": "curvePoint",
-                    "cornerRadius": 10,
+                    "cornerRadius": 0,
                     "curveFrom": "{1, 0}",
                     "curveMode": 1,
                     "curveTo": "{1, 0}",
@@ -557,7 +557,7 @@
                   },
                   {
                     "_class": "curvePoint",
-                    "cornerRadius": 10,
+                    "cornerRadius": 0,
                     "curveFrom": "{1, 1}",
                     "curveMode": 1,
                     "curveTo": "{1, 1}",
@@ -567,7 +567,7 @@
                   },
                   {
                     "_class": "curvePoint",
-                    "cornerRadius": 10,
+                    "cornerRadius": 0,
                     "curveFrom": "{0, 1}",
                     "curveMode": 1,
                     "curveTo": "{0, 1}",
@@ -577,7 +577,7 @@
                   }
                 ]
               },
-              "fixedRadius": 10,
+              "fixedRadius": 0,
               "hasConvertedToNewRoundCorners": true
             }
           ],
